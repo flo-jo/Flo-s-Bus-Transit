@@ -1,0 +1,6 @@
+{
+  "name": "Flo's Transit",
+  "description": "Real-time bus arrival timings, interactive route timelines, bus stop schedules, and favorites manager with Flo's Transit design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
